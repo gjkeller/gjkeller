@@ -8,7 +8,7 @@ CS @ UT Austin. Building agentic infrastructure, scaling developer communities, 
 - VP of [Texas ACM](https://texasacm.org) — growth strategy for UT's largest CS org
 - SWE Intern @ [GridMatrix](https://gridmatrix.com) — AI for infrastructure
 
-**Previously:** Paycom, Cycorp, Prelude · HackTX 2025 winner ($4k best overall) · $15k Japanese government research grant
+**Previously:** Paycom, Cycorp, Prelude · HackTX 2025 winner · $15k Japanese government research grant
 
 ---
 
